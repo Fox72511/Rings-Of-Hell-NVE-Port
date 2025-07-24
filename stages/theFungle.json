@@ -1,0 +1,100 @@
+{
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "draepostor"
+	},
+	"isPixelStage": false,
+	"boyfriend": [
+		1530,
+		720
+	],
+	"girlfriend": [
+		600,
+		550
+	],
+	"objects": [
+		{
+			"x": -106,
+			"y": 132,
+			"scale": [
+				1,
+				1
+			],
+			"image": "act1-fungle/mountain",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite3",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"x": -106,
+			"y": 132,
+			"scale": [
+				1,
+				1
+			],
+			"image": "act1-fungle/objects",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -106,
+			"y": 132,
+			"scale": [
+				1,
+				1
+			],
+			"image": "act1-fungle/grass",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"defaultZoom": 0.6,
+	"opponent": [
+		450,
+		675
+	],
+	"directory": "",
+	"hide_girlfriend": true
+}
